@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![message_svg](https://github.com/nayoung0/nayoung0/template.svg)
+![message_svg](https://github.com/nayoung0/nayoung0/blob/master/template.svg)
